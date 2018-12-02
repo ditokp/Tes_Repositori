@@ -11,30 +11,32 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 5. [Archive Manager](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#archive-manager)
 6. [Audio Editing]()
 7. [Audio Player]()
-8. [CAD Program(s)]()
-9. [Video Player]()
-10. [Firewall]()
-11. [Game Engine (Umum)]()
-12. [HDRI Program(s)]()
-13. [Image Editing]()
-14. [Image Painting]()
-15. [Internet Browser]()
-16. [IRC Client]()
-17. [Music Maker Program(s)]()
-18. [Note Apps]()
-19. [Novel Writer Program(s)]()
-20. [Office Suite]()
-21. [Quiz Maker Program(s)]()
-22. [RPG Game Engine]()
-23. [Scriptwriter Program(s)]()
-24. [Sculpting Program(s)]()
-25. [Texture Maker Program(s)]()
-26. [Texturing / Texture Painting]()
-27. [Torrent Client]()
-28. [VFX / Simulation Program(s)]()
-29. [Video Editing]()
-30. [Visual Novel Game Engine]()
-31. [VPN]()
+8. [Audio Recorder]()
+9. [CAD Program(s)]()
+10. [Video Player]()
+11. [Firewall]()
+12. [Game Engine (Umum)]()
+13. [HDRI Program(s)]()
+14. [Image Editing]()
+15. [Image Painting]()
+16. [Internet Browser]()
+17. [IRC Client]()
+18. [Music Maker Program(s)]()
+19. [Note Apps]()
+20. [Novel Writer Program(s)]()
+21. [Office Suite]()
+22. [Quiz Maker Program(s)]()
+23. [RPG Game Engine]()
+24. [Screen Recorder]()
+25. [Scriptwriter Program(s)]()
+26. [Sculpting Program(s)]()
+27. [Texture Maker Program(s)]()
+28. [Texturing / Texture Painting]()
+29. [Torrent Client]()
+30. [VFX / Simulation Program(s)]()
+31. [Video Editing]()
+32. [Visual Novel Game Engine]()
+33. [VPN]()
 ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -67,4 +69,23 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Archive Manager
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | --- 
-01 | [-]() | - | - | - 
+01 | [7-Zip](https://www.7-zip.org/) | `Windows` | - | - 
+02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | - | -
+03 | [Peazip](http://www.peazip.org/) | `*BSD, Linux, Windows` | - | -
+
+## Audio Editing
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | -
+
+## Audio Player
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Audacious](https://audacious-media-player.org/) | `*BSD, Linux, Windows` | - | -
+02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | - | -
+03 | [VLC Media Player](http://www.videolan.org/vlc/) | `ChromeOS, *BSD, Linux, MacOS, Solaris, Windows` | - | -
+
+## Audio Recorder
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | -
