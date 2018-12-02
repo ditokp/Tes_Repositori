@@ -3,7 +3,7 @@ Language: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md
 
 
 ## Contents
-1. [About]()
+1. [About](https://github.com/ditokp/Tes_Repositori/blob/master/About.md)
 2. [Introducing FOSS]()
 3. [Contribute]()
 4. [Lists of FOSS Apps for Desktop]()
