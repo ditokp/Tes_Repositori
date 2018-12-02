@@ -7,7 +7,7 @@ This website contains an explanation of all matters relating to FOSS (Free Open 
 To introduce to the public what FOSS is, its benefits, and list of Open Source applications & games.
 
 ## License
-Creative Commons by Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 ## Contact
 - Email: `ditokurniap@merahputih.id`
