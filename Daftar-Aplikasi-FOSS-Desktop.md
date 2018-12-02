@@ -38,54 +38,66 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 32. [Visual Novel Game Engine]()
 33. [VPN]()
 ______________________________________
+> **Keterangan Deskripsi:**
+> 
+> α artinya Rilis Alpha.
+> 
+> β artinya Rilis Beta.
+> 
+> S artinya Rilis Stabil.
+> 
+> X artinya Pengembangan aplikasinya sudah tidak dilanjutkan.
+> 
+> C artinya Pengembangan aplikasinya masih dilanjutkan.
+
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Blender](https://www.blender.org/) | - | - | -
-02 | [Krita](https://krita.org/en/) | - | - | -
-03 | [OpenToonz](https://opentoonz.github.io/e/) | - | - | -
-04 | [Pencil2D](https://www.pencil2d.org/) | - | - | -
-05 | [Synfig Studio](https://www.synfig.org/) | - | - | -
+01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
+02 | [Krita](https://krita.org/en/) | - | - | C
+03 | [OpenToonz](https://opentoonz.github.io/e/) | - | - | C
+04 | [Pencil2D](https://www.pencil2d.org/) | - | - | C
+05 | [Synfig Studio](https://www.synfig.org/) | - | - | C
 
 ## 3D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | - | - | -
-02 | [Bforartists](https://www.bforartists.de/) | - | - | -
+01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
+02 | [Bforartists](https://www.bforartists.de/) | - | - | C
 
 ## 3D Modelling
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | - | - | -
-02 | [Bforartists](https://www.bforartists.de/) | - | - | -
+01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
+02 | [Bforartists](https://www.bforartists.de/) | - | - | C
 03 | [Wings 3D](http://www.wings3d.com/) | - | - | -
 
 ## Anti-Virus
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [ClamAV](http://www.clamav.net/) | - | - | -
-02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | - | - | -
+01 | [ClamAV](http://www.clamav.net/) | - | - | C
+02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | - | - | C
 
 ## Archive Manager
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | --- 
-01 | [7-Zip](https://www.7-zip.org/) | `Windows` | - | - 
-02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | - | -
-03 | [Peazip](http://www.peazip.org/) | `*BSD, Linux, Windows` | - | -
+01 | [7-Zip](https://www.7-zip.org/) | `Windows` | - | C 
+02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | - | X
+03 | [Peazip](http://www.peazip.org/) | `*BSD, Linux, Windows` | - | C
 
 ## Audio Editing
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | -
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | C
 
 ## Audio Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacious](https://audacious-media-player.org/) | `*BSD, Linux, Windows` | - | -
-02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | - | -
-03 | [VLC Media Player](http://www.videolan.org/vlc/) | `ChromeOS, *BSD, Linux, MacOS, Solaris, Windows` | - | -
+01 | [Audacious](https://audacious-media-player.org/) | `*BSD, Linux, Windows` | - | C
+02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | - | C
+03 | [VLC Media Player](http://www.videolan.org/vlc/) | `ChromeOS, *BSD, Linux, MacOS, Solaris, Windows` | - | C
 
 ## Audio Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | -
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | C
