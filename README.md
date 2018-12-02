@@ -4,7 +4,7 @@ Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.m
 ### Daftar Isi
 1. [Tentang](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
 2. [Mengenal FOSS]()
-3. [Berkontribusi]()
+3. [Berkontribusi](https://github.com/ditokp/Tes_Repositori/blob/master/Berkontribusi.md)
 4. [Daftar Aplikasi FOSS untuk Desktop]()
 5. [Daftar Game FOSS untuk Desktop]()
 6. [Daftar Aplikasi FOSS untuk Android]()
