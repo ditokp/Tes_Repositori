@@ -1,11 +1,14 @@
 # Tes_Repositori
-Hanya Mencoba.
+Bahasa: [Inggris](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesia](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
 
-### Daftar Isi:
+### Daftar Isi
 1. [Tentang](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
 2. [Mengenal FOSS]()
 3. [Berkontribusi]()
-4. [Daftar FOSS]()
+4. [Daftar Aplikasi FOSS untuk Desktop]()
+5. [Daftar Game FOSS untuk Desktop]()
+6. [Daftar Aplikasi FOSS untuk Android]()
+7. [Daftar Game FOSS untuk Android]()
 
 _________________________________________________
 > Copyright © 2018, Dito Kurnia P
