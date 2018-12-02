@@ -49,15 +49,22 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
 01 | [Blender](https://www.blender.org/) | - | - | -
+02 | [Bforartists](https://www.bforartists.de/) | - | - | -
 
 ## 3D Modelling
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
 01 | [Blender](https://www.blender.org/) | - | - | -
-02 | [-]() | - | - | -
+02 | [Bforartists](https://www.bforartists.de/) | - | - | -
+03 | [Wings 3D](http://www.wings3d.com/) | - | - | -
 
 ## Anti-Virus
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [ClamAV]() | - | - | -
-02 | [ClamTK]() | - | - | -
+01 | [ClamAV](http://www.clamav.net/) | - | - | -
+02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | - | - | -
+
+## Archive Manager
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | --- 
+01 | [-]() | - | - | - 
