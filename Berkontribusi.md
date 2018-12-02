@@ -49,3 +49,6 @@ Judul: [+][Game] 0 A.D.
 Deskripsi: [0 A.D.](https://play0ad.com/)
 #### Cara Kedua
 Fork repositori ini lalu clone repositori hasil fork ke perangkat kalian, lalu sunting daftar game FOSS nya. Setelah itu commit kan ke repositori hasil fork tadi, lalu buat pull request ke repositori ini.
+
+______________________________________________________________
+[**<- Kembali**](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md) | [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**]()
