@@ -2,7 +2,7 @@
 Just Testing.
 
 ### Daftar Isi:
-1. [About Repo](https://github.com/ditokp/Tes_Repositori/blob/master/Read_Me.md)
+1. [Tentang](https://github.com/ditokp/Tes_Repositori/blob/master/Read_Me.md)
 2. [Mengenal FOSS]()
 3. [Contribute]()
 4. [Daftar Aplikasi]()
