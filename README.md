@@ -1,5 +1,5 @@
 # Selamat Datang
-Language: [Inggris](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
+Language: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
 
 ### Daftar Isi
 1. [Tentang](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
