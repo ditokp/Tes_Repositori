@@ -1,9 +1,10 @@
 # Test_Repository
-______________________________________
 Just Testing.
 
 ### Daftar Isi:
-[Read_Me](https://github.com/ditokp/Tes_Repositori/blob/master/Read_Me.md)
+- [About Repo](https://github.com/ditokp/Tes_Repositori/blob/master/Read_Me.md)
+- [Contribute][]
+- [Daftar Aplikasi][]
 
 `Test` | **More Test** | *Another Test*
 --- | --- | ---
