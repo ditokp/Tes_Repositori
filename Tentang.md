@@ -7,4 +7,4 @@
 - Mastodon: `@ditokurniap`
 - Pixelfed: `@ditokurniap`
 
-[<- Kembali][https://github.com/ditokp/Tes_Repositori/blob/master/README.md]
+[<- Kembali](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
