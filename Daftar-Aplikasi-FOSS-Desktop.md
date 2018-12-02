@@ -4,9 +4,9 @@ ______________________________________________
 Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan abjad dan kategori aplikasinya.
 
 **Daftar Isi:**
-1. [2D Animation]()
-2. [3D Animation]()
-3. [3D Modelling]()
+1. [2D Animation](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#2d-animation)
+2. [3D Animation](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#3d-animation)
+3. [3D Modelling](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#3d-modelling)
 4. [Anti-Virus]()
 5. [Archive Manager]()
 6. [Audio Editing]()
@@ -38,19 +38,19 @@ ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Lisensi | Deskripsi
 --- | --- | --- | ---
-01 | [Blender]() | - | -
-02 | [Krita]() | - | -
-03 | [OpenToonz]() | - | -
-04 | [Pencil2D]() | - | -
-05 | [Synfig Studio]() | - | -
+01 | [Blender](https://www.blender.org/) | - | -
+02 | [Krita](https://krita.org/en/) | - | -
+03 | [OpenToonz](https://opentoonz.github.io/e/) | - | -
+04 | [Pencil2D](https://www.pencil2d.org/) | - | -
+05 | [Synfig Studio](https://www.synfig.org/) | - | -
 
 ## 3D Animation
 No | Nama Aplikasi | Lisensi | Deskripsi
 --- | --- | --- | ----
-01 | [Blender]() | - | -
+01 | [Blender](https://www.blender.org/) | - | -
 
 ## 3D Modelling
 No | Nama Aplikasi | Lisensi | Deskripsi
 --- | --- | --- | ----
-01 | [Blender]() | - | -
+01 | [Blender](https://www.blender.org/) | - | -
 02 | [-]() | - | -
