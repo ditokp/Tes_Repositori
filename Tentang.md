@@ -14,4 +14,5 @@ Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional ([CC BY-SA 4.0](https:
 - Mastodon: `@ditokurniap`
 - Pixelfed: `@ditokurniap`
 
-[<- Kembali](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
+________________________________________________
+[**<- Kembali**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**](https://github.com/ditokp/Tes_Repositori/blob/master/Berkontribusi.md)
