@@ -1,3 +1,5 @@
+Languages: [English]() | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
+
 # Tentang
 Situs web ini berisi penjelasan tentang semua hal yang berkaitan dengan FOSS (Free Open Source Software).
 
