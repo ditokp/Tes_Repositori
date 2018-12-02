@@ -38,4 +38,19 @@ ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Lisensi | Deskripsi
 --- | --- | --- | ---
-01 | [OpenToonz]() | - | -
+01 | [Blender]() | - | -
+02 | [Krita]() | - | -
+03 | [OpenToonz]() | - | -
+04 | [Pencil2D]() | - | -
+05 | [Synfig Studio]() | - | -
+
+## 3D Animation
+No | Nama Aplikasi | Lisensi | Deskripsi
+--- | --- | --- | ----
+01 | [Blender]() | - | -
+
+## 3D Modelling
+No | Nama Aplikasi | Lisensi | Deskripsi
+--- | --- | --- | ----
+01 | [Blender]() | - | -
+02 | [-]() | - | -
