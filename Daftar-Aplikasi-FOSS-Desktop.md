@@ -52,6 +52,8 @@ ______________________________________
 >
 > NB artinya Nightly Build
 >
+> RC artinya Release Candidate
+>
 > **Catatan: Tulisan versi aplikasi akan diperbarui 2 minggu sekali**
 
 ## 2D Animation
@@ -79,29 +81,42 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Anti-Virus
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [ClamAV](http://www.clamav.net/) | - | - | C
-02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | - | - | C
+01 | [ClamAV](http://www.clamav.net/) | `BSD, Linux, MacOS, Windows` | GNU GPL | C {0.101.0 RC ~ 0.100.2 S}
+02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | FreeBSD, Linux | GNU GPL | C {5.26 S}
 
 ## Archive Manager
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | --- 
-01 | [7-Zip](https://www.7-zip.org/) | `Windows` | - | C 
-02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | - | X
-03 | [Peazip](http://www.peazip.org/) | `*BSD, Linux, Windows` | - | C
+01 | [7-Zip](https://www.7-zip.org/) | `Windows` | GNU LGPL | C {18.05 S}
+02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | GNU GPL | X {5.1 S} (Update terakhir: 26/10/2013)
+03 | [Peazip](http://www.peazip.org/) | `BSD, Linux, Windows` | GNU LGPLv3 | C {6.6.1 S}
 
 ## Audio Editing
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | C
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
 
 ## Audio Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacious](https://audacious-media-player.org/) | `*BSD, Linux, Windows` | - | C
-02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | - | C
-03 | [VLC Media Player](http://www.videolan.org/vlc/) | `ChromeOS, *BSD, Linux, MacOS, Solaris, Windows` | - | C
+01 | [Audacious](https://audacious-media-player.org/) | `BSD, Linux, Windows` | - | C {3.10 S}
+02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {1.3.1 S}
+03 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | - | C {3.0.4 S}
 
 ## Audio Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | - | C
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
+
+## CAD Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+02 | [BRL-CAD](http://brlcad.org/) | `BSD, Linux, MacOS, Solaris, Windows` | OSI approved license terms | C {7.26.0 S}
+03 | [FreeCAD](https://www.freecadweb.org/) | `Linux, MacOS, Windows` | GNU LGPLv2 | C {0.18 α ~ 0.17.13541 S}
+04 | [LibreCAD](https://librecad.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.2.0 RC ~ 2.1.3 S}
+
+## Video Player
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | - | C {3.0.4 S}
