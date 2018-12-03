@@ -82,7 +82,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [ClamAV](http://www.clamav.net/) | `BSD, Linux, MacOS, Windows` | GNU GPL | C {0.101.0 RC ~ 0.100.2 S}
-02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | FreeBSD, Linux | GNU GPL | C {5.26 S}
+02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | `FreeBSD, Linux` | GNU GPL | C {5.26 S}
 
 ## Archive Manager
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
