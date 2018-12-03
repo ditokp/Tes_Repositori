@@ -1,4 +1,4 @@
-Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/README.md)
+Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md)
 ______________________________________________
 # Daftar Aplikasi FOSS untuk Desktop
 Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan abjad dan kategori aplikasinya.
@@ -9,11 +9,11 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 3. [3D Modelling](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#3d-modelling)
 4. [Anti-Virus](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#anti-virus)
 5. [Archive Manager](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#archive-manager)
-6. [Audio Editing]()
-7. [Audio Player]()
-8. [Audio Recorder]()
+6. [Audio Editing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#audio-editing)
+7. [Audio Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#audio-player)
+8. [Audio Recorder](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#audio-recorder)
 9. [CAD Program(s)]()
-10. [Video Player]()
+10. [Video Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#video-player)
 11. [Firewall]()
 12. [Game Engine (Umum)]()
 13. [HDRI Program(s)]()
