@@ -57,24 +57,24 @@ ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Blender](https://www.blender.org/) | Linux, MacOS, Windows | GNU GPLv2 | C {2.8 α ~ 2.79 S}
-02 | [Krita](https://krita.org/en/) | Linux, MacOS, Windows | GNU GPLv3 | C {4.2.0 Pre-α ~ 4.1.5 S}
-03 | [OpenToonz](https://opentoonz.github.io/e/) | MacOS, Windows | BSD License | C {NB 2018-12-03 ~ 1.2.1 S}
-04 | [Pencil2D](https://www.pencil2d.org/) | FreeBSD, Linux, MacOS, Windows | GNU GPLv2 | C {0.6.2 S}
-05 | [Synfig Studio](https://www.synfig.org/) | - | - | C
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+02 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {4.2.0 Pre-α ~ 4.1.5 S}
+03 | [OpenToonz](https://opentoonz.github.io/e/) | `MacOS, Windows` | BSD License | C {NB 2018-12-03 ~ 1.2.1 S}
+04 | [Pencil2D](https://www.pencil2d.org/) | `FreeBSD, Linux, MacOS, Windows` | GNU GPLv2 | C {0.6.2 S}
+05 | [Synfig Studio](https://www.synfig.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.2.2 S}
 
 ## 3D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
-02 | [Bforartists](https://www.bforartists.de/) | - | - | C
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+02 | [Bforartists](https://www.bforartists.de/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.0.0 S}
 
 ## 3D Modelling
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
-02 | [Bforartists](https://www.bforartists.de/) | - | - | C
-03 | [Wings 3D](http://www.wings3d.com/) | - | - | -
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+02 | [Bforartists](https://www.bforartists.de/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.0.0 S}
+03 | [Wings 3D](http://www.wings3d.com/) | `Linux, MacOS, Windows` | - | C {2.2.1 pre-α ~ 2.1.7 S}
 
 ## Anti-Virus
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
