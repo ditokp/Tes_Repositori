@@ -49,14 +49,18 @@ ______________________________________
 > X artinya Pengembangan aplikasinya sudah tidak dilanjutkan.
 > 
 > C artinya Pengembangan aplikasinya masih dilanjutkan.
+>
+> NB artinya Nightly Build
+>
+> **Catatan: Tulisan versi aplikasi akan diperbarui 2 minggu sekali**
 
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Blender](https://www.blender.org/) | - | - | C {2.8 α ~ 2.79 S}
-02 | [Krita](https://krita.org/en/) | - | - | C
-03 | [OpenToonz](https://opentoonz.github.io/e/) | - | - | C
-04 | [Pencil2D](https://www.pencil2d.org/) | - | - | C
+01 | [Blender](https://www.blender.org/) | Linux, MacOS, Windows | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+02 | [Krita](https://krita.org/en/) | Linux, MacOS, Windows | GNU GPLv3 | C {4.2.0 Pre-α ~ 4.1.5 S}
+03 | [OpenToonz](https://opentoonz.github.io/e/) | MacOS, Windows | BSD License | C {NB 2018-12-03 ~ 1.2.1 S}
+04 | [Pencil2D](https://www.pencil2d.org/) | FreeBSD, Linux, MacOS, Windows | GNU GPLv2 | C {0.6.2 S}
 05 | [Synfig Studio](https://www.synfig.org/) | - | - | C
 
 ## 3D Animation
