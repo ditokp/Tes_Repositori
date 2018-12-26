@@ -59,7 +59,7 @@ ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
 02 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {4.2.0 Pre-α ~ 4.1.5 S}
 03 | [OpenToonz](https://opentoonz.github.io/e/) | `MacOS, Windows` | BSD License | C {NB 2018-12-03 ~ 1.2.1 S}
 04 | [Pencil2D](https://www.pencil2d.org/) | `FreeBSD, Linux, MacOS, Windows` | GNU GPLv2 | C {0.6.2 S}
@@ -68,13 +68,13 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## 3D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
 02 | [Bforartists](https://www.bforartists.de/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.0.0 S}
 
 ## 3D Modelling
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | ---- | ---
-01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
 02 | [Bforartists](https://www.bforartists.de/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.0.0 S}
 03 | [Wings 3D](http://www.wings3d.com/) | `Linux, MacOS, Windows` | - | C {2.2.1 pre-α ~ 2.1.7 S}
 
@@ -101,7 +101,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Audacious](https://audacious-media-player.org/) | `BSD, Linux, Windows` | - | C {3.10 S}
 02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {1.3.1 S}
-03 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | - | C {3.0.4 S}
+03 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
 
 ## Audio Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -111,7 +111,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## CAD Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 α ~ 2.79 S}
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
 02 | [BRL-CAD](http://brlcad.org/) | `BSD, Linux, MacOS, Solaris, Windows` | OSI approved license terms | C {7.26.0 S}
 03 | [FreeCAD](https://www.freecadweb.org/) | `Linux, MacOS, Windows` | GNU LGPLv2 | C {0.18 α ~ 0.17.13541 S}
 04 | [LibreCAD](https://librecad.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.2.0 RC ~ 2.1.3 S}
@@ -119,4 +119,27 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Video Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | - | C {3.0.4 S}
+01 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
+02 | [MPC-HC](https://mpc-hc.org/) | `Windows` | GNU GPLv3 | X {1.7.13 S} (Update terakhir: 16/07/2017)
+03 | [MPV](https://mpv.io/) | `Android, BSD, Linux, MacOS, Windows` | GNU GPLv2+ | C {0.29.1 S}
+
+## Firewall
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Gufw](http://gufw.org/) | `Linux` | GNU GPLv3  | C
+
+## Game Engine (Umum)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Armory](https://armory3d.org/) | `Linux, MacOS, Windows` | Zlib | C {0.5 α}
+02 | [BGE (Via Bforartist)](https://www.bforartists.de/) | `Linux, MacOS, Windows` | GNU GPL | C {1.0.0 S}
+03 | [Godot](https://godotengine.org/) | `Linux, MacOS, Windows` | MIT  | C {3.0.6 S}
+04 | [UPBGE](https://upbge.org/) | `Linux, Windows` | GNU GPL | C {0.2.4 S}
+
+## Game Engine (Visual Novel)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Belle](http://fr33mind.github.io/Belle/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {0.7 β}
+02 | [Monogatari](https://monogatari.io/) | `Linux, MacOS, Windows` | MIT | C {1.4.1 S}
+03 | [Ren'Py](https://www.renpy.org/) | `Linux, MacOS, Windows` | MIT  | C {7.1.3 S}
+04 | [Suika 2](https://luxion.jp/s2/en/) | `Linux, MacOS, Windows` | MIT | C {2.5.5 S}
