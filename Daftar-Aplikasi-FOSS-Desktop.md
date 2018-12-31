@@ -55,7 +55,7 @@ ______________________________________
 > RC artinya Release Candidate
 >
 > **Catatan: Tulisan versi aplikasi akan diperbarui 2 minggu sekali**
-
+______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
