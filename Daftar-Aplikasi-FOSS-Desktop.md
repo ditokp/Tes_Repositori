@@ -18,8 +18,8 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 12. [Game Engine (Umum)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-umum)
 13. [Game Engine (Visual Novel)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-visual-novel)
 14. [HDRI Program(s)]()
-15. [Image Editing]()
-16. [Image Painting]()
+15. [Image Drawing]()
+16. [Image Editing]()
 17. [Internet Browser]()
 18. [IRC Client]()
 19. [Music Maker Program(s)]()
@@ -141,6 +141,35 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 02 | [Monogatari](https://monogatari.io/) | `Linux, MacOS, Windows` | MIT | C {1.4.1 S}
 03 | [Ren'Py](https://www.renpy.org/) | `Linux, MacOS, Windows` | MIT  | C {7.1.3 S}
 04 | [Suika 2](https://luxion.jp/s2/en/) | `Linux, MacOS, Windows` | MIT | C {2.5.5 S}
+
+## HDRI Program
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Darktable](https://www.darktable.org/) | `FreeBSD, Linux, MacOS, Solaris, Windows` | GNU GPLv3 | C {2.6.0 S}
+02 | [Luminance HDR](http://qtpfsgui.sourceforge.net/) | `Linux, MacOS, Windows` | GNU GPL | C {2.5.1 S}
+
+## Image Drawing
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Alchemy](http://al.chemy.org/features/) | `Linux, MacOS, Windows` | GNU GPL | X {008 β}
+02 | [GIMP](https://www.gimp.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.10.8 S}
+03 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | ? | C {4.1.7 S}
+04 | [Pinta](https://pinta-project.com/pintaproject/pinta/) | `OpenBSD, Linux, MacOS, Windows` | MIT | C {1.7.0.236 α ~ 1.6 S}
+
+## Image Editing
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Darktable](https://www.darktable.org/) | `FreeBSD, Linux, MacOS, Solaris, Windows` | GNU GPLv3 | C {2.6.0 S}
+02 | [GIMP](https://www.gimp.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.10.8 S}
+03 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | ? | C {4.1.7 S}
+04 | [Pinta](https://pinta-project.com/pintaproject/pinta/) | `OpenBSD, Linux, MacOS, Windows` | MIT | C {1.7.0.236 α ~ 1.6 S}
+
+## Image Editing
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Firefox]() | `Linux, MacOS, Windows, Android` | - | C {}
+02 | [Waterfox]() | `Linux, MacOS, Windows, Android` | - | C {}
+
 
 
 
