@@ -17,12 +17,12 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 11. [Game Engine (RPG)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-rpg)
 12. [Game Engine (Umum)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-umum)
 13. [Game Engine (Visual Novel)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-visual-novel)
-14. [HDRI Program(s)]()
-15. [Image Drawing]()
-16. [Image Editing]()
-17. [Internet Browser]()
+14. [HDRI Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#hdri-program)
+15. [Image Drawing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-drawing)
+16. [Image Editing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-editing)
+17. [Internet Browser](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#internet-browser)
 18. [IRC Client]()
-19. [Music Maker Program(s)]()
+19. [Music/Sound Effect Maker Program(s)]()
 20. [Note Apps]()
 21. [Novel Writer Program(s)]()
 22. [Office Suite]()
@@ -81,7 +81,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Anti-Virus
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [ClamAV](http://www.clamav.net/) | `BSD, Linux, MacOS, Windows` | GNU GPL | C {0.101.0 RC ~ 0.100.2 S}
+01 | [ClamAV](http://www.clamav.net/) | `*BSD, Linux, MacOS, Windows` | GNU GPL | C {0.101.0 RC ~ 0.100.2 S}
 02 | [ClamTK](https://dave-theunsub.github.io/clamtk/) | `FreeBSD, Linux` | GNU GPL | C {5.26 S}
 
 ## Archive Manager
@@ -89,7 +89,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | --- 
 01 | [7-Zip](https://www.7-zip.org/) | `Windows` | GNU LGPL | C {18.05 S}
 02 | [ArcThemAll!](http://arcthemall.sourceforge.net/) | `Windows` | GNU GPL | X {5.1 S} (Update terakhir: 26/10/2013)
-03 | [Peazip](http://www.peazip.org/) | `BSD, Linux, Windows` | GNU LGPLv3 | C {6.6.1 S}
+03 | [Peazip](http://www.peazip.org/) | `*BSD, Linux, Windows` | GNU LGPLv3 | C {6.6.1 S}
 
 ## Audio Editing
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -99,9 +99,9 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Audio Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacious](https://audacious-media-player.org/) | `BSD, Linux, Windows` | - | C {3.10 S}
+01 | [Audacious](https://audacious-media-player.org/) | `*BSD, Linux, Windows` | - | C {3.10 S}
 02 | [Clementine](https://www.clementine-player.org/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {1.3.1 S}
-03 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
+03 | [VLC Media Player](http://www.videolan.org/vlc/) | `*BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
 
 ## Audio Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -112,7 +112,7 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
-02 | [BRL-CAD](http://brlcad.org/) | `BSD, Linux, MacOS, Solaris, Windows` | OSI approved license terms | C {7.26.0 S}
+02 | [BRL-CAD](http://brlcad.org/) | `*BSD, Linux, MacOS, Solaris, Windows` | OSI approved license terms | C {7.26.0 S}
 03 | [FreeCAD](https://www.freecadweb.org/) | `Linux, MacOS, Windows` | GNU LGPLv2 | C {0.18 α ~ 0.17.13541 S}
 04 | [LibreCAD](https://librecad.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.2.0 RC ~ 2.1.3 S}
 
@@ -124,7 +124,11 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Game Engine (RPG)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | []() | `Linux, MacOS, Windows` | - | C {0.}
+01 | [EasyRPG Editor](https://easyrpg.org/) | `Windows` | GNU GPLv3 | C
+02 | [Flare](http://flarerpg.org/) | `FreeBSD, Haiku, Linux, MacOS, Windows` | GNU GPLv3 | C {1.09.01 S}
+03 | [RPGBoss](http://rpgboss.com/) | `Linux, MacOS, Windows` | GNU AGPLv3 | X {0.9.8 S}
+04 | [RPG Paper Maker](http://rpg-paper-maker.com/) | `Linux, Windows` | GNU GPLv3 | C {0.5.3 β}
+05 | [Solarus](http://www.solarus-games.org/) | `*BSD, Linux, MacOS, Windows` | GNU GPL | C {1.6.0 S}
 
 ## Game Engine (Umum)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -164,11 +168,46 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 03 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | ? | C {4.1.7 S}
 04 | [Pinta](https://pinta-project.com/pintaproject/pinta/) | `OpenBSD, Linux, MacOS, Windows` | MIT | C {1.7.0.236 α ~ 1.6 S}
 
-## Image Editing
+## Internet Browser
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Firefox]() | `Linux, MacOS, Windows, Android` | - | C {}
-02 | [Waterfox]() | `Linux, MacOS, Windows, Android` | - | C {}
+01 | [Chromium](http://www.chromium.org/Home) | `Android, ChromeOS, IOS, Linux, MacOS, Windows` | ? | C
+01 | [Firefox](https://www.mozilla.org/en-US/firefox/) | `Android, *BSD, IOS, Linux, MacOS, Windows` | ? | C {64 S}
+02 | [Waterfox](https://waterfoxproject.org/en-US/) | `Android, Linux, MacOS, Windows` | MPLv2.0 | C {56.2.6 S}
+
+## IRC Client
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Hexchat](https://hexchat.github.io/) | `Linux, Windows` | GNU GPLv2 | C {2.14.2 S}
+02 | [Srain](https://srain.im/) | `Linux` | GNU GPLv3 | C {0.06.4 S}
+03 | [Quassel IRC](https://quassel-irc.org/) | `Android, Linux, MacOS, Windows` | GNU GPL | C {0.13.0 S}
+
+## Music/Sound Effect Maker Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
+02 | [LMMS](https://lmms.io/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {1.2.0-RC β}
+03 | [MilkyTracker](http://milkytracker.titandemo.org/) | `*BSD, Haiku, Linux, MacOS, Windows` | GNU GPLv3 | C {1.02.00 S}
+04 | [MuseScore](https://musescore.org/id) | `*BSD, Linux, MacOS, Windows` | GNU GPLv2 | C {3.0 S}
+05 | [Bfxr](https://www.bfxr.net/) | `MacOS, Windows` | Apache | C {1.4.1 S}
+06 | [rFXGen](https://raylibtech.itch.io/rfxgen) | `Linux, Windows` | Zlib/Libpng | C {1.3 S}
+
+## Note Apps
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Atom](https://atom.io/) | `Linux, MacOS, Windows` | MIT | C {1.34.0 β1 ~ 1.33.1 S}
+02 | [Notepad++](https://notepad-plus-plus.org/) | `Windows` | GNU GPL | C {7.6.1 S}
+
+## Novel Writer Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Manuskript](http://www.theologeek.ch/manuskript/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {0.8.0 S}
+
+## Office Suite
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [AbiWord]() | `Linux, MacOS, Windows` | - | C {}
+
 
 
 
@@ -177,6 +216,6 @@ TERAKHIR:
 ## Video Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [VLC Media Player](http://www.videolan.org/vlc/) | `BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
+01 | [VLC Media Player](http://www.videolan.org/vlc/) | `*BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
 02 | [MPC-HC](https://mpc-hc.org/) | `Windows` | GNU GPLv3 | X {1.7.13 S} (Update terakhir: 16/07/2017)
-03 | [MPV](https://mpv.io/) | `Android, BSD, Linux, MacOS, Windows` | GNU GPLv2+ | C {0.29.1 S}
+03 | [MPV](https://mpv.io/) | `Android, *BSD, Linux, MacOS, Windows` | GNU GPLv2+ | C {0.29.1 S}
