@@ -207,15 +207,59 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [AbiWord]() | `Linux, MacOS, Windows` | - | C {}
+02 | [Gnumeric](http://www.gnumeric.org/) | `Linux, MacOS, Windows` | - | C {}
+03 | [LibreOffice](https://www.libreoffice.org/) | `Android, Linux, MacOS, Windows` | - | C {}
+04 | [OpenOffice]() | `Android, Linux, MacOS, Windows` | Anfroid, | C {}
 
+## Quiz Maker Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [-]() | `-` | - | - {-}
 
+## Screen Recorder
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [OpenBroadcasterStudio]() | `Linux, MacOS, Windows` | - | C {}
+02 | [SimpleScreenRecorder]() | `Linux` | - | C {}
 
+## Scriptwriter Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Kit Scenarist](https://kitscenarist.ru/en/index.html) | `Andorid, IOS, Linux, MacOS, Windows` | - | C {}
+02 | [Trelby](https://www.trelby.org/) | `Linux, Windows` | - | X {}
 
+## Sculpting Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Blender](https://www.blender.org/) | `*BSD, Linux, MacOS, Windows` | - | C {}
+02 | [Dilay](https://abau.org/dilay/index.html) | `Linux, Windows` | - | C {}
 
-TERAKHIR:
+## Texture Maker Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Blender](https://www.blender.org/) | `*BSD, Linux, MacOS, Windows` | - | C {}
+02 | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) | `Linux, Windows` | - | C {}
+03 | [Materialize](http://www.boundingboxsoftware.com/materialize/index.php)  ``Materializ` | - | C {}
+
+## Torrent Client
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | []() | `*BSD, Linux, MacOS, Windows` | - | C {}
+
+## VFX / Simulation Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | []() | `*BSD, Linux, MacOS, Windows` | - | C {}
+
 ## Video Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [VLC Media Player](http://www.videolan.org/vlc/) | `*BSD, ChromeOS, Linux, MacOS, Solaris, Windows` | ? | C {3.0.4 S}
 02 | [MPC-HC](https://mpc-hc.org/) | `Windows` | GNU GPLv3 | X {1.7.13 S} (Update terakhir: 16/07/2017)
 03 | [MPV](https://mpv.io/) | `Android, *BSD, Linux, MacOS, Windows` | GNU GPLv2+ | C {0.29.1 S}
+
+## VPN
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [OpenVPN](https://openvpn.net/) | `*Android, IOS, Linux, MacOS, Windows` | - | C {}
+02 | [Wireguard](https://www.wireguard.com/) | `Android, *BSD, IOS, Linux, MacOS, Windows` | - | C {}
