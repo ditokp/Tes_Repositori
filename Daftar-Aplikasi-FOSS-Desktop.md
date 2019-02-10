@@ -13,30 +13,31 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 7. [Audio Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#audio-player)
 8. [Audio Recorder](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#audio-recorder)
 9. [CAD Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#cad-programs)
-10. [Firewall](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#firewall)
-11. [Game Engine (RPG)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-rpg)
-12. [Game Engine (Umum)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-umum)
-13. [Game Engine (Visual Novel)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-visual-novel)
-14. [HDRI Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#hdri-program)
-15. [Image Drawing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-drawing)
-16. [Image Editing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-editing)
-17. [Internet Browser](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#internet-browser)
-18. [IRC Client](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#irc-client)
-19. [Music/Sound Effect Maker Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#musicsound-effect-maker-programs)
-20. [Note Apps](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#note-apps)
-21. [Novel Writer Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#novel-writer-programs)
-22. [Office Suite](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#office-suite)
-23. [Quiz Maker Program(s)]()
-24. [Screen Recorder]()
-25. [Scriptwriter Program(s)]()
-26. [Sculpting Program(s)]()
-27. [Texture Maker Program(s)]()
-28. [Texturing / Texture Painting]()
-29. [Torrent Client]()
-30. [VFX / Simulation Program(s)]()
-31. [Video Editing]()
-32. [Video Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#video-player)
-33. [VPN]()
+10. [Compositing Program(s)]()
+11. [Firewall](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#firewall)
+12. [Game Engine (RPG)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-rpg)
+13. [Game Engine (Umum)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-umum)
+14. [Game Engine (Visual Novel)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#game-engine-visual-novel)
+15. [HDRI Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#hdri-program)
+16. [Image Drawing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-drawing)
+17. [Image Editing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#image-editing)
+18. [Interior Design Program(s)]()
+19. [Internet Browser](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#internet-browser)
+20. [IRC Client](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#irc-client)
+21. [Music/Sound Effect Maker Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#musicsound-effect-maker-programs)
+22. [Note Apps](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#note-apps)
+23. [Novel Writer Program(s)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#novel-writer-programs)
+24. [Office Suite](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#office-suite)
+25. [Quiz Maker Program(s)]()
+26. [Screen Recorder]()
+27. [Scriptwriter Program(s)]()
+28. [Sculpting Program(s)]()
+29. [Texture Maker Program(s)]()
+30. [Texturing / Texture Painting]()
+31. [Torrent Client]()
+32. [Video Editing]()
+33. [Video Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#video-player)
+34. [VPN]()
 ______________________________________
 > **Keterangan Deskripsi:**
 > 
@@ -54,7 +55,7 @@ ______________________________________
 >
 > RC artinya Release Candidate
 >
-> **Catatan: Tulisan versi aplikasi akan diperbarui 2 minggu sekali**
+> **Catatan: Tulisan versi aplikasi akan diperbarui 1 bulan sekali**
 ______________________________________
 ## 2D Animation
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -94,7 +95,8 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Audio Editing
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
+01 | [Ardour](https://ardour.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {5.12 S}
+02 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
 
 ## Audio Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -106,7 +108,8 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Audio Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
+01 | [Ardour](https://ardour.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {5.12 S}
+02 | [Audacity](https://www.audacityteam.org/) | `Linux, MacOS, Windows` | GNU GPL | C {2.3.0 S}
 
 ## CAD Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -115,6 +118,12 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 02 | [BRL-CAD](http://brlcad.org/) | `*BSD, Linux, MacOS, Solaris, Windows` | OSI approved license terms | C {7.26.0 S}
 03 | [FreeCAD](https://www.freecadweb.org/) | `Linux, MacOS, Windows` | GNU LGPLv2 | C {0.18 α ~ 0.17.13541 S}
 04 | [LibreCAD](https://librecad.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.2.0 RC ~ 2.1.3 S}
+
+## Compositing Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
+02 | [Natron](https://natrongithub.github.io/) | `*BSD, Linux, MacOS, Windows` | GNU GPLv2 | C {2.3.14 S}
 
 ## Firewall
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -168,6 +177,12 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 03 | [Krita](https://krita.org/en/) | `Linux, MacOS, Windows` | ? | C {4.1.7 S}
 04 | [Pinta](https://pinta-project.com/pintaproject/pinta/) | `OpenBSD, Linux, MacOS, Windows` | MIT | C {1.7.0.236 α ~ 1.6 S}
 
+## Interior Design Program(s)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
+02 | [Sweet Home 3D](http://www.sweethome3d.com/index.jsp) | `Linux, MacOS, Solaris, Web, Windows` | GNU GPLv2 | C {6.1.2 S}
+
 ## Internet Browser
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
@@ -208,13 +223,13 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [AbiWord](https://www.abisource.com/) | `Linux, MacOS` | GNU GPL | ? {3.0.2 S}
 02 | [Gnumeric](http://www.gnumeric.org/) | `*BSD, Linux` | GNU GPLv2 atau GNU GPLv3 | C {1.12.44 S}
-03 | [LibreOffice](https://www.libreoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | ? | C {6.2.0 S ; 6.1.5 S}
+03 | [LibreOffice](https://www.libreoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | ? | C {6.2.0 S ~ 6.1.5 S}
 04 | [OpenOffice](https://www.openoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | Apache | C {4.1.6 S}
 
 ## Quiz Maker Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [-]() | `-` | - | - {-}
+01 | [-](https://duckduckgo.com/) | `-` | - | - {-}
 
 ## Screen Recorder
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -225,31 +240,39 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## Scriptwriter Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [Kit Scenarist](https://kitscenarist.ru/en/index.html) | `Andorid, IOS, Linux, MacOS, Windows` | - | C {}
-02 | [Trelby](https://www.trelby.org/) | `Linux, Windows` | - | X {}
+01 | [Kit Scenarist](https://kitscenarist.ru/en/index.html) | `Android, iOS, Linux, MacOS, Windows` | GNU GPLv3 | C {0.7.2 β 9A ~ 0.7.2 RC5 S}
+02 | [Trelby](https://www.trelby.org/) | `Linux, Windows` | GNU GPLv2 | X {2.2 S} (Update terakhir: 26/09/2012)
 
 ## Sculpting Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
-02 | [Dilay](https://abau.org/dilay/index.html) | `Linux, Windows` | - | C {}
+02 | [Dilay](https://abau.org/dilay/index.html) | `Linux, Windows` | GNU GPLv3 | C {1.9.0 S}
 
 ## Texture Maker Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
-02 | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) | `Linux, Windows` | - | C {}
-03 | [Materialize](http://www.boundingboxsoftware.com/materialize/index.php)  `Materializ` | - | C {}
+02 | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) | `Linux, Windows` | GNU GPLv3 | C {5.0 S}
+03 | [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) | `Windows` | GNU GPLv3 | C {1.78 S}
 
 ## Torrent Client
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | []() | `*BSD, Linux, MacOS, Windows` | - | C {}
+01 | [Deluge](https://deluge-torrent.org/) | `*BSD, Linux, MacOS, Windows` | GNU GPLv3 | C {1.3.15 S}
+02 | [FrostWire](https://www.frostwire.com/) | `Android, Linux, MacOS, Windows` | GNU GPLv3 | C {6.77 S Desktop ~ 2.1.2 S Android}
+03 | [Halite](https://github.com/Eoinocal/Halite) | `Windows` | ? | C {0.4.0.4 S}
+04 | [qBittorent](https://www.qbittorrent.org/) | `*BSD, Haiku, Linux, MacOS, OS/2, Windows` | GNU GPLv2 | C {4.1.5 S}
+05 | [Transmission](https://transmissionbt.com/) | `*BSD, Linux, MacOS, Windows` | GNU GPLv2 atau GNU GPLv3 | C {2.94 S}
 
-## VFX / Simulation Program(s)
+## Video Editing
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Blender](https://www.blender.org/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {2.8 β ~ 2.79 S}
+02 | [Kdenlive](https://kdenlive.org/en/) | `Linux, MacOS, Windows` | GNU GPLv2 | C {18.12.1 S}
+03 | [OpenShot](https://www.openshot.org/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {2.4.3 S}
+04 | [Shotcut](https://www.shotcutapp.com/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {19.01.27 S}
+05 | [slowmoVideo](http://slowmovideo.granjow.net/index.html) | `Linux, MacOS, Windows` | GNU GPLv3 | C {0.5 S}
 
 ## Video Player
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
@@ -261,5 +284,5 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 ## VPN
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | [OpenVPN](https://openvpn.net/) | `*Android, IOS, Linux, MacOS, Windows` | - | C {}
-02 | [Wireguard](https://www.wireguard.com/) | `Android, *BSD, IOS, Linux, MacOS, Windows` | - | C {}
+01 | [OpenVPN](https://openvpn.net/) | `Android, iOS, Linux, MacOS, Windows` | ? | C {?}
+02 | [Wireguard](https://www.wireguard.com/) | `Android, *BSD, iOS, Linux, MacOS, Windows` | GNU GPLv2 | C {0.0.20190123}
