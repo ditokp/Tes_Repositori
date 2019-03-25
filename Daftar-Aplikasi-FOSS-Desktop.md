@@ -1,4 +1,4 @@
-Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md)
+Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/FOSS-Apps-Desktop.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md)
 ______________________________________________
 # Daftar Aplikasi FOSS untuk Desktop
 Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan abjad dan kategori aplikasinya.
