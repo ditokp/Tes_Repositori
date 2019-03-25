@@ -224,7 +224,8 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 01 | [AbiWord](https://www.abisource.com/) | `Linux, MacOS` | GNU GPL | ? {3.0.2 S}
 02 | [Gnumeric](http://www.gnumeric.org/) | `*BSD, Linux` | GNU GPLv2 atau GNU GPLv3 | C {1.12.44 S}
 03 | [LibreOffice](https://www.libreoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | ? | C {6.2.0 S ~ 6.1.5 S}
-04 | [OpenOffice](https://www.openoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | Apache | C {4.1.6 S}
+04 | [ONLYOFFICE](https://www.onlyoffice.com/) | `Android, iOS, Linux, MacOS, Web, Windows` | GNU AGPLv3.0 | C {5.2.X S}
+05 | [OpenOffice](https://www.openoffice.org/) | `Android (Non-Official Port), Linux, MacOS, Windows` | Apache | C {4.1.6 S}
 
 ## Quiz Maker Program(s)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
