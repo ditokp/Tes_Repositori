@@ -6,7 +6,7 @@ Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.m
 2. [Berkontribusi](https://github.com/ditokp/Tes_Repositori/blob/master/Berkontribusi.md)
 3. [Mengenal FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 4. [Daftar Aplikasi FOSS untuk Desktop](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md)
-5. [Daftar Game FOSS untuk Desktop]()
+5. [Daftar Game FOSS untuk Desktop](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Game-FOSS-Desktop.md)
 6. [Daftar Aplikasi FOSS untuk Android]()
 7. [Daftar Game FOSS untuk Android]()
 
