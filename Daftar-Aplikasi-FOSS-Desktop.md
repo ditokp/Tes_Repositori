@@ -287,3 +287,5 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [OpenVPN](https://openvpn.net/) | `Android, iOS, Linux, MacOS, Windows` | ? | C {?}
 02 | [Wireguard](https://www.wireguard.com/) | `Android, *BSD, iOS, Linux, MacOS, Windows` | GNU GPLv2 | C {0.0.20190123}
+________________________________________________
+[**<- Kembali**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**](https://github.com/ditokp/Tes_Repositori/blob/master/Berkontribusi.md)
