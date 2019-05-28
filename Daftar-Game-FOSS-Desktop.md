@@ -1,6 +1,6 @@
 Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.md) | [Indonesian](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Game-FOSS-Desktop.md)
 ______________________________________________
-# Daftar Games FOSS untuk Desktop
+# Daftar Game FOSS untuk Desktop
 Halaman ini berisi daftar game FOSS untuk Desktop yang diurutkan berdasarkan abjad dan kategori aplikasinya.
 
 **Daftar Isi:**
@@ -56,7 +56,7 @@ No | Nama Game | Platform(s) | Lisensi | Deskripsi
 01 | [0 A.D]() | `Linux, MacOS, Windows` | - | C {-}
 02 | [Freeciv]() | `Linux, MacOS, Web, Windows` | - | C {-}
 03 | [MegaGlest]() | `Linux, MacOS, Windows` | - | C {-}
-04 | [OpenAge]() | `Linux, MacOS, Windows` | - C {-}
+04 | [OpenAge]() | `Linux, MacOS, Windows` | - | C {-}
 05 | [OpenRA]() | `Linux, MacOS, Windows` | - | C {-}
 06 | [Unknown Horizons]() | `Linux, MacOS, Windows` | - | C {-}
 
@@ -73,7 +73,7 @@ No | Nama Game | Platform(s) | Lisensi | Deskripsi
 02 | [Assault Cube]() | `Linux, MacOS, Windows` | - | C {-}
 03 | [Freedoom]() | `Linux, MacOS, Windows` | - | C {-}
 04 | [Hedgewars]() | `Linux, MacOS, Windows` | - | C {-}
-05 | [OpenSpades]() | `Linux, MacOS, Windows` | - C {-}
+05 | [OpenSpades]() | `Linux, MacOS, Windows` | - | C {-}
 06 | [Sauerbraten]() | `Linux, MacOS, Windows` | - | C {-}
 07 | [Teeworlds]() | `Linux, MacOS, Windows` | - | C {-}
 08 | [Warsow]() | `Linux, MacOS, Windows` | - | C {-}
