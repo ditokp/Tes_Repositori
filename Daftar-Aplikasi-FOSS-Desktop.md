@@ -187,8 +187,10 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [Chromium](http://www.chromium.org/Home) | `Android, ChromeOS, IOS, Linux, MacOS, Windows` | ? | C
-01 | [Firefox](https://www.mozilla.org/en-US/firefox/) | `Android, *BSD, IOS, Linux, MacOS, Windows` | ? | C {64 S}
-02 | [Waterfox](https://waterfoxproject.org/en-US/) | `Android, Linux, MacOS, Windows` | MPLv2.0 | C {56.2.6 S}
+02 | [Firefox](https://www.mozilla.org/en-US/firefox/) | `Android, *BSD, IOS, Linux, MacOS, Windows` | ? | C {64 S}
+03 | [Midori](https://www.midori-browser.org/) | `Android, Linux, Windows` | LGPLv2.1 | C {8 S}
+04 | [Waterfox](https://waterfoxproject.org/en-US/) | `Android, Linux, MacOS, Windows` | MPLv2.0 | C {56.2.6 S}
+05 | [Web (Epiphany)](https://wiki.gnome.org/Apps/Web/) | `Linux` | GNU GPLv3 | C {S}
 
 ## IRC Client
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
