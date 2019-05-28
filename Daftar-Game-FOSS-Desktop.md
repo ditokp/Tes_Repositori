@@ -6,7 +6,15 @@ Halaman ini berisi daftar game FOSS untuk Desktop yang diurutkan berdasarkan abj
 **Daftar Isi:**
 1. [Platformer]()
 2. [Puzzle]()
-3. [Simulation]()
+3. [Racing]()
+4. [RTS]()
+5. [Roguelike]()
+6. [Shooter]()
+7. [Simulation]()
+8. [Stealth]()
+9. [Strategy]()
+10. [TBS]()
+11. [Tycoon]()
 ______________________________________
 > **Keterangan Deskripsi:**
 > 
@@ -29,21 +37,80 @@ ______________________________________
 ## Platformer
 No | Nama Game | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | []() | `Linux, MacOS, Windows` | - | C {-}
+01 | [SuperTux]() | `Linux, MacOS, Windows` | - | C {-}
 
 ## Puzzle
 No | Nama Game | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [2048]() | `Android, Linux, MacOS, Web, Windows` | - | C {-}
 
-## Simulation
+## Racing
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Stunt Rally]() | `Linux, MacOS, Windows` | - | C {-}
+02 | [SuperTuxKart]() | `Android, Linux, MacOS, Windows` | - | C {-}
+
+## RTS
 No | Nama Game | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [0 A.D]() | `Linux, MacOS, Windows` | - | C {-}
-02 | [Micropolis]() | `Linux, MacOS, Web, Windows` | - | C {-}
-03 | [Minetest]() | `Android, Linux, MacOS, Windows` | - | C {-}
-04 | [OpenBVE]() | `Linux, MacOS, Windows` | - | C {-}
-05 | [OpenTTD]() | `Linux, MacOS, Windows` | - | C {-}
-06 | [Simutrans]() | `Linux, MacOS, Windows` | - | C {-}
-07 | [The Dark Mod]() | `Linux, MacOS, Windows` | - | C {-}
-08 | [Unknown Horizons]() | `Linux, MacOS, Windows` | - | C {-}
+02 | [Freeciv]() | `Linux, MacOS, Web, Windows` | - | C {-}
+03 | [MegaGlest]() | `Linux, MacOS, Windows` | - | C {-}
+04 | [OpenAge]() | `Linux, MacOS, Windows` | - C {-}
+05 | [OpenRA]() | `Linux, MacOS, Windows` | - | C {-}
+06 | [Unknown Horizons]() | `Linux, MacOS, Windows` | - | C {-}
+
+## Roguelike
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Dungeon Crawl Stone Soup]() | `Android, Linux, MacOS, Web, Windows` | - | C {-}
+02 | [Nethack]() | `Linux` | - | C {-}
+
+## Shooter
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Alien Arena]() | `Linux, Windows` | - | C {-}
+02 | [Assault Cube]() | `Linux, MacOS, Windows` | - | C {-}
+03 | [Freedoom]() | `Linux, MacOS, Windows` | - | C {-}
+04 | [Hedgewars]() | `Linux, MacOS, Windows` | - | C {-}
+05 | [OpenSpades]() | `Linux, MacOS, Windows` | - C {-}
+06 | [Sauerbraten]() | `Linux, MacOS, Windows` | - | C {-}
+07 | [Teeworlds]() | `Linux, MacOS, Windows` | - | C {-}
+08 | [Warsow]() | `Linux, MacOS, Windows` | - | C {-}
+09 | [Xonotic]() | `Linux, MacOS, Windows` | - | C {-}
+
+## Simulation
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [FlightGear]() | `Linux, MacOS, Windows` | - | C {-}
+02 | [FreeTrain]() | `Linux, MacOS, Windows` | - | C {-}
+03 | [Micropolis]() | `Linux, MacOS, Web, Windows` | - | C {-}
+04 | [Minetest]() | `Android, Linux, MacOS, Windows` | - | C {-}
+05 | [OpenBVE]() | `Linux, MacOS, Windows` | - | C {-}
+06 | [Open Horizon]() | `Linux, MacOS, Windows` | - | C {-}
+07 | [Rigs of Rods]() | `Linux, MacOS, Windows` | - | C {-}
+08 | [Simutrans]() | `Linux, MacOS, Windows` | - | C {-}
+09 | [Unknown Horizons]() | `Linux, MacOS, Windows` | - | C {-}
+
+## Stealth
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [The Dark Mod]() | `Linux, MacOS, Windows` | - | C {-}
+
+## Strategy
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Battle for Wesnoth]() | `Android, IOS, Linux, MacOS, Windows` | - | C {-}
+02 | [UFO: Alien Invasion]() | `Linux, MacOS, Windows` | - | C {-}
+
+## TBS
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [Tanks of Freedom]() | `Android, Linux, MacOS, Windows` | - | C {-}
+
+## Tycoon
+No | Nama Game | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [OpenLoco]() | `Linux, MacOS, Windows` | - | C {-}
+02 | [OpenRCT2]() | `Linux, MacOS, Windows` | - | C {-}
+03 | [OpenTTD]() | `Linux, MacOS, Windows` | - | C {-}
