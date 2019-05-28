@@ -259,6 +259,11 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 02 | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) | `Linux, Windows` | GNU GPLv3 | C {5.0 S}
 03 | [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) | `Windows` | GNU GPLv3 | C {1.78 S}
 
+## Texturing / Texture Painting
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | []() | `Linux, MacOS, Windows` | ? | C { S}
+
 ## Torrent Client
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
