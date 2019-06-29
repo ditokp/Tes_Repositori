@@ -10,8 +10,8 @@ Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.m
 6. [Daftar Aplikasi FOSS untuk Android](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Android.md)
 7. [Daftar Game FOSS untuk Android](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Game-FOSS-Android.md)
 
-_______________________________________________________
+
 [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
-_________________________________________________
+__________________________________________________________________________
 > Copyright © 2018-2019, Dito Kurnia P
-_________________________________________________
+__________________________________________________________________________
