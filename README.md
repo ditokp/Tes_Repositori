@@ -12,6 +12,7 @@ Languages: [English](https://github.com/ditokp/Tes_Repositori/blob/master/HOME.m
 
 
 [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**](https://github.com/ditokp/Tes_Repositori/blob/master/Tentang.md)
-__________________________________________________________________________
-> Copyright © 2018-2019, Dito Kurnia P
-__________________________________________________________________________
+
+____________________________________________________________________________________________________________________
+`Copyright © 2018-2019, Dito Kurnia P`
+____________________________________________________________________________________________________________________
