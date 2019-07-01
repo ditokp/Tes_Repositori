@@ -10,7 +10,7 @@ Halaman ini berisi daftar Media Sosial Free & Open Source yang diurutkan berdasa
 2. [PixelFed](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#pixelfed)
     - [Aplikasi Client PixelFed (Desktop)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-pixelfed-desktop)
     - [Aplikasi Client PixelFed (Mobile)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-pixelfed-mobile)
-3. [Diaspora](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#diaspora)
+3. [Diaspora*](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#diaspora)
 ______________________________________________
 > **Keterangan Deskripsi:**
 > 
