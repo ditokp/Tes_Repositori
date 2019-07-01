@@ -5,9 +5,11 @@ Halaman ini berisi daftar Media Sosial Free & Open Source yang diurutkan berdasa
 
 **Daftar Isi:**
 1. [Mastodon](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#mastodon)
-  - [Aplikasi Client Mastodon (Desktop)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-desktop)
-  - [Aplikasi Client Mastodon (Mobile)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-mobile)
+    - [Aplikasi Client Mastodon (Desktop)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-desktop)
+    - [Aplikasi Client Mastodon (Mobile)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-mobile)
 2. [PixelFed](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#pixelfed)
+    - [Aplikasi Client PixelFed (Desktop)]()
+    - [Aplikasi Client PixelFed (Mobile)]()
 ______________________________________________
 > **Keterangan Deskripsi:**
 > 
@@ -49,3 +51,18 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 03 | [Tooter](https://openrepos.net/content/dysko/tooter) | `Sailfish OS` | ? | C {1.0.3 S(?)}
 04 | [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) | `Android` | GNU GPLv3 | C {8.0 S}
 05 | [uMastonauts](https://open-store.io/app/umastodon.christianpauly) | `Ubuntu Touch` | GNU GPLv3 | C {1.4.1 S}
+
+## PixelFed
+Alternatif dari | Website | Daftar Instances
+--- | --- | ---
+Instagram | https://pixelfed.org/ | https://the-federation.info/pixelfed ; https://fediverse.network/pixelfed
+
+### Aplikasi Client PixelFed (Desktop)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | []() | `Linux, MacOS, Windows` |  | C {}
+
+### Aplikasi Client Mastodon (Mobile)
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | []() | `iOS` | ? | C {?}
