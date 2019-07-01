@@ -8,8 +8,9 @@ Halaman ini berisi daftar Media Sosial Free & Open Source yang diurutkan berdasa
     - [Aplikasi Client Mastodon (Desktop)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-desktop)
     - [Aplikasi Client Mastodon (Mobile)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-mastodon-mobile)
 2. [PixelFed](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#pixelfed)
-    - [Aplikasi Client PixelFed (Desktop)]()
-    - [Aplikasi Client PixelFed (Mobile)]()
+    - [Aplikasi Client PixelFed (Desktop)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-pixelfed-desktop)
+    - [Aplikasi Client PixelFed (Mobile)](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#aplikasi-client-pixelfed-mobile)
+3. [Diaspora](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Medsos-FOSS.md#diaspora)
 ______________________________________________
 > **Keterangan Deskripsi:**
 > 
@@ -60,9 +61,14 @@ Instagram | https://pixelfed.org/ | https://the-federation.info/pixelfed ; https
 ### Aplikasi Client PixelFed (Desktop)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | []() | `Linux, MacOS, Windows` |  | C {}
+01 | []() | `-` | - | C {-}
 
 ### Aplikasi Client Mastodon (Mobile)
 No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
-01 | []() | `iOS` | ? | C {?}
+01 | [PixelFed Webapp](https://open-store.io/app/pixelfed-web.darkeye) | `Ubuntu Touch` | GNU LGPLv3 | C {0.1 S}
+
+## Diaspora*
+Alternatif dari | Website | Daftar Pod
+--- | --- | ---
+Facebook | https://diasporafoundation.org/ | https://podupti.me/
