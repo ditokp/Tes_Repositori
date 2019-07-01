@@ -38,6 +38,7 @@ Halaman ini berisi daftar aplikasi FOSS untuk Desktop yang diurutkan berdasarkan
 32. [Video Editing](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#video-editing)
 33. [Video Player](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#video-player)
 34. [VPN](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#vpn)
+35. [Youtube Client](https://github.com/ditokp/Tes_Repositori/blob/master/Daftar-Aplikasi-FOSS-Desktop.md#youtube-client)
 ______________________________________
 > **Keterangan Deskripsi:**
 > 
@@ -294,5 +295,11 @@ No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
 --- | --- | --- | --- | ---
 01 | [OpenVPN](https://openvpn.net/) | `Android, iOS, Linux, MacOS, Windows` | ? | C {?}
 02 | [Wireguard](https://www.wireguard.com/) | `Android, *BSD, iOS, Linux, MacOS, Windows` | GNU GPLv2 | C {0.0.20190123}
+
+## Youtube Client
+No | Nama Aplikasi | Platform(s) | Lisensi | Deskripsi
+--- | --- | --- | --- | ---
+01 | [FreeTube](https://freetubeapp.io/) | `Linux, MacOS, Windows` | GNU GPLv3 | C {0.6.0 β}
+
 ________________________________________________
 [**<- Kembali**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Halaman Depan**](https://github.com/ditokp/Tes_Repositori/blob/master/README.md) | [**Selanjutnya ->**](https://github.com/ditokp/Tes_Repositori/blob/master/Berkontribusi.md)
